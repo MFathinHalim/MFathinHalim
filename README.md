@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M-Fathin-Halim
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
