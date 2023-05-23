@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @M-Fathin-Halim
+- 👋 Hi, I’m @M-Fathin-Halim and you can call me Doma, Doma Tomoharu(dont ask why)
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Javascript(FullStack),Java(Android Studio),Python,C#(Unity)
+- 💞️ I’m looking to collaborate on Team(?) IDK
+- 📫 How to reach me just chat me on Sosial Media!
 
 <!---
 M-Fathin-Halim/M-Fathin-Halim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
