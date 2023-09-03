@@ -7,7 +7,6 @@ Saya adalah seorang Pengembang Perangkat Lunak Indie yang berdedikasi untuk menc
 ## Tentang Saya 👨‍💻
 
 - 💡 Saya senang menghadapi tantangan teknis dan mengejar kreativitas dalam pengembangan perangkat lunak.
-- 🎮 Sebagai seorang penggemar game, saya juga tertarik pada pengembangan game dan teknologi terkait.
 - 🌸 Saya adalah penggemar budaya pop Jepang dan senang mempelajari bahasa dan seni Jepang.
 - 🚀 Portofolio saya mencakup berbagai proyek keren yang telah saya kembangkan.
 
@@ -19,7 +18,7 @@ Anda dapat menjelajahi lebih lanjut tentang proyek-proyek yang telah saya kerjak
 
 Mari bergabung dalam perjalanan pengembangan perangkat lunak dan eksplorasi kreatif bersama! Anda dapat menghubungi saya melalui [Email](mailto:halimfathin7@gmail.com) atau melalui [LinkedIn](https://www.linkedin.com/in/m-fathin-halim-8b8198288/).
 
-## Tagar Populer 🔖
+## Tag Populer 🔖
 
 - #IndieDeveloper
 - #CodingPassion
