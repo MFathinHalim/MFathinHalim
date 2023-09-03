@@ -17,7 +17,7 @@ Anda dapat menjelajahi lebih lanjut tentang proyek-proyek yang telah saya kerjak
 
 ## Hubungi Saya 📫
 
-Mari bergabung dalam perjalanan pengembangan perangkat lunak dan eksplorasi kreatif bersama! Anda dapat menghubungi saya melalui [Email](mailto:email@example.com) atau melalui [LinkedIn](https://www.linkedin.com/in/namalinkedin).
+Mari bergabung dalam perjalanan pengembangan perangkat lunak dan eksplorasi kreatif bersama! Anda dapat menghubungi saya melalui [Email](mailto:halimfathin7@gmail.com) atau melalui [LinkedIn](https://www.linkedin.com/in/m-fathin-halim-8b8198288/).
 
 ## Tagar Populer 🔖
 
