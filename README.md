@@ -1,20 +1,31 @@
-👋 Halo, saya Doma!
+# Halo, Saya Doma! 👋
 
-👨‍💻 Seorang Pengembang Perangkat Lunak Indie yang berusaha mewujudkan impian melalui garis-garis kode.
+![Profil Doma]([https://link-ke-gambar-profil-anda](https://avatars.githubusercontent.com/u/99858315?v=4))
 
-🌟 Saya percaya bahwa setiap perangkat lunak memiliki kekuatan untuk menciptakan perubahan positif. Saya senang menciptakan solusi kreatif dan berinovasi dalam setiap proyek.
+Saya adalah seorang Pengembang Perangkat Lunak Indie yang berdedikasi untuk menciptakan perubahan positif melalui garis-garis kode. Saya percaya bahwa setiap perangkat lunak memiliki potensi untuk menghadirkan solusi inovatif dalam berbagai bidang.
 
-🎮 Selain bermain dengan kode, saya juga seorang pecinta game dan penggemar budaya pop Jepang.
+## Tentang Saya 👨‍💻
 
-🚀 Jangan ragu untuk menjelajahi portofolio saya untuk melihat proyek-proyek keren yang telah saya kembangkan!
+- 💡 Saya senang menghadapi tantangan teknis dan mengejar kreativitas dalam pengembangan perangkat lunak.
+- 🎮 Sebagai seorang penggemar game, saya juga tertarik pada pengembangan game dan teknologi terkait.
+- 🌸 Saya adalah penggemar budaya pop Jepang dan senang mempelajari bahasa dan seni Jepang.
+- 🚀 Portofolio saya mencakup berbagai proyek keren yang telah saya kembangkan.
 
-🌐 Portofolio Saya https://doma.mfathinhalim.repl.co/ 
+## Portofolio 🌟
 
-📫 Mari bergabung dalam perjalanan pengembangan perangkat lunak dan eksplorasi kreatif bersama!
+Anda dapat menjelajahi lebih lanjut tentang proyek-proyek yang telah saya kerjakan di [Portofolio Saya](https://doma.mfathinhalim.repl.co/). Proyek-proyek ini mencakup berbagai bidang, dari pengembangan web hingga pengembangan game.
 
-#IndieDeveloper #CodingPassion #GameLover
+## Hubungi Saya 📫
 
-<!---
-M-Fathin-Halim/M-Fathin-Halim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Mari bergabung dalam perjalanan pengembangan perangkat lunak dan eksplorasi kreatif bersama! Anda dapat menghubungi saya melalui [Email](mailto:email@example.com) atau melalui [LinkedIn](https://www.linkedin.com/in/namalinkedin).
+
+## Tagar Populer 🔖
+
+- #IndieDeveloper
+- #CodingPassion
+- #GameLover
+- #WebDevelopment
+- #GameDevelopment
+- #JapaneseCulture
+
+Terima kasih telah mengunjungi profil GitHub saya. Saya berharap dapat berkolaborasi dengan Anda dalam proyek-proyek yang menarik!
