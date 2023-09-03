@@ -2,7 +2,7 @@
 
 ![Profil Doma](https://media.discordapp.net/attachments/1074508165028257873/1144934621893640213/1693044061110.jpg?width=864&height=496)
 
-Saya adalah seorang Pengembang Perangkat Lunak Indie yang berdedikasi untuk menciptakan perubahan positif melalui garis-garis kode. Saya percaya bahwa setiap perangkat lunak memiliki potensi untuk menghadirkan solusi inovatif dalam berbagai bidang.
+Saya adalah seorang Pengembang Perangkat Lunak Indie yang berdedikasi untuk menciptakan perubahan positif melalui *line of code*. Saya percaya bahwa setiap perangkat lunak memiliki potensi untuk menghadirkan solusi inovatif dalam berbagai bidang.
 
 ## Tentang Saya 👨‍💻
 
