@@ -1,6 +1,6 @@
 # Halo, Saya Doma! 👋
 
-![Profil Doma]([https://link-ke-gambar-profil-anda](https://avatars.githubusercontent.com/u/99858315?v=4))
+![Profil Doma](https://avatars.githubusercontent.com/u/99858315?v=4)
 
 Saya adalah seorang Pengembang Perangkat Lunak Indie yang berdedikasi untuk menciptakan perubahan positif melalui garis-garis kode. Saya percaya bahwa setiap perangkat lunak memiliki potensi untuk menghadirkan solusi inovatif dalam berbagai bidang.
 
