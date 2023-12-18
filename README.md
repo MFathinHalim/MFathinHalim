@@ -12,7 +12,7 @@ Saya adalah seorang Pengembang Perangkat Lunak Indie yang berdedikasi untuk menc
 
 ## Portofolio 🌟
 
-Anda dapat menjelajahi lebih lanjut tentang proyek-proyek yang telah saya kerjakan di [Portofolio Saya](https://portofolio.mfathinhalim.repl.co/). Proyek-proyek ini mencakup berbagai bidang, dari pengembangan web hingga pengembangan game.
+Anda dapat menjelajahi lebih lanjut tentang proyek-proyek yang telah saya kerjakan di [Portofolio Saya](https://mfathinhalim.github.io). Proyek-proyek ini mencakup berbagai bidang, dari pengembangan web hingga pengembangan game.
 
 ## Hubungi Saya 📫
 
