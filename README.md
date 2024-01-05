@@ -1,24 +1,22 @@
-# Halo, Saya Fathin! 👋
+# Hello, I'm Fathin! 👋
 
-![Profil Fathin](https://ik.imagekit.io/9hpbqscxd/SG/image-99.jpg)
+I am an Indie Software Developer dedicated to creating creativity through *line of code*. I believe that every software has the potential to deliver innovative solutions in various fields.
 
-Saya adalah seorang Pengembang Perangkat Lunak Indie yang berdedikasi untuk menciptakan suatu kreatifitas melalui *line of code*. Saya percaya bahwa setiap perangkat lunak memiliki potensi untuk menghadirkan solusi inovatif dalam berbagai bidang.
+## About Me 👨‍💻
 
-## Tentang Saya 👨‍💻
+- 💡 I enjoy facing technical challenges and pursuing creativity in software development.
+- 🌸 I am a fan of Japanese pop culture and enjoy studying Japanese language and art.
+- 🚀 My portfolio includes various cool projects that I have developed.
 
-- 💡 Saya senang menghadapi tantangan teknis dan mengejar kreativitas dalam pengembangan perangkat lunak.
-- 🌸 Saya adalah penggemar budaya pop Jepang dan senang mempelajari bahasa dan seni Jepang.
-- 🚀 Portofolio saya mencakup berbagai proyek keren yang telah saya kembangkan.
+## Portfolio 🌟
 
-## Portofolio 🌟
+You can explore more about the projects I have worked on at [My Portfolio](https://mfathinhalim.github.io). These projects cover a wide range of fields, from web development to game development.
 
-Anda dapat menjelajahi lebih lanjut tentang proyek-proyek yang telah saya kerjakan di [Portofolio Saya](https://mfathinhalim.github.io). Proyek-proyek ini mencakup berbagai bidang, dari pengembangan web hingga pengembangan game.
+## Contact Me 📫
 
-## Hubungi Saya 📫
+Let's join the journey of software development and creative exploration together! You can contact me via [Email](mailto:halimfathin7@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/m-fathin-halim-8b8198288/).
 
-Mari bergabung dalam perjalanan pengembangan perangkat lunak dan eksplorasi kreatif bersama! Anda dapat menghubungi saya melalui [Email](mailto:halimfathin7@gmail.com) atau melalui [LinkedIn](https://www.linkedin.com/in/m-fathin-halim-8b8198288/).
-
-## Tag Populer 🔖
+## Popular Tags 🔖
 
 - #IndieDeveloper
 - #CodingPassion
@@ -27,4 +25,4 @@ Mari bergabung dalam perjalanan pengembangan perangkat lunak dan eksplorasi krea
 - #GameDevelopment
 - #JapaneseCulture
 
-Terima kasih telah mengunjungi profil GitHub saya. Saya berharap dapat berkolaborasi dengan Anda dalam proyek-proyek yang menarik!
+Thank you for visiting my GitHub profile. I look forward to collaborating with you on exciting projects!
