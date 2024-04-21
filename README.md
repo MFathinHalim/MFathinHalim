@@ -3,7 +3,8 @@
 
 <table width="100%" >
  <tr>
-  <td  width="50%">
+  <td  width="70%">
+   
 ## ⚡🙋‍♂️ About me
 
 #### Introduce
@@ -17,7 +18,7 @@
   <li>I Love Watching Anime and my fav genre is SOL :D</li>
 </ul>
 </td>
-    <td width="50%">
+    <td width="30%">
      
 ## 🛠️ Skills
 
