@@ -2,7 +2,6 @@
 
 
 <table width="100%" >
- <tr>
   <td  width="70%">
    
 ## ⚡🙋‍♂️ About me
@@ -45,8 +44,6 @@
 
 
 </td>
-</tr>
-
 </table>
 
 
