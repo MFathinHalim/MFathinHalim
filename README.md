@@ -30,8 +30,8 @@
 
 #### Development
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB
-![ReactJS](https://img.shields.io/badge/-react-05122A?style=flat&logo=react)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)&nbsp;
+![ReactJS](https://img.shields.io/badge/-react-05122A?style=flat&logo=react)&nbsp;
 
 
 
@@ -45,8 +45,6 @@
 
 
 </td>
-    <td>
-
 
 </table>
 
