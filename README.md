@@ -1,7 +1,10 @@
 # Yooo👋, Welcome to my Profile
 
 ## ⚡🙋‍♂️ About me
-<p>
+
+<table width="100%" >
+<tr>
+ <p>
  Hi, My Name is M.Fathin Halim. I'm an indie middle school developer :D. I love making website, check my portofolio https://fathin.my.id
 </p>
 <ul>
@@ -13,10 +16,7 @@
 <p>
  
 </p>
-</br>
-
-<table width="100%" >
-
+</tr>
  <tr>
     <td width="50%">
      
