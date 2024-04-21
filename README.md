@@ -2,10 +2,11 @@
 
 
 <table width="100%" >
-## ⚡🙋‍♂️ About me
 
  <tr>
   <td  width="50%">
+   ## ⚡🙋‍♂️ About me
+
  <p>
  Hi, My Name is M.Fathin Halim. I'm an indie middle school developer :D. I love making website, check my portofolio https://fathin.my.id
 </p>
