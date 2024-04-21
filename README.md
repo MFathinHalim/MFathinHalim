@@ -23,7 +23,7 @@
 <a href="https://instagram.com/mfathin_halim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mfathin_halim" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mfathinhalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mfathinhalim" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mfathinhalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mfathinhalim" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/users/1156486226094870569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/1156486226094870569" height="30" width="40" /></a>
+<a href="https://discord.com/users/1156486226094870569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/1156486226094870569" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
