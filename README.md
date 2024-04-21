@@ -25,18 +25,18 @@
 #### Languages
 ![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=openjdk&logoColor=orange)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C#](https://glints.com/id/lowongan/wp-content/uploads/2021/01/1200px-C_Sharp_logo.png)&nbsp;
+![C#](https://img.shields.io/badge/-csharp-05122A?style=flat&logo=csharp)&nbsp;
 
 
 #### Development
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB
-![ReactJS](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png)
+![ReactJS](https://img.shields.io/badge/-react-05122A?style=flat&logo=react)
 
 
 
 #### Database
-![MongoDB](https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png);
+![MongoDB](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb);
 #### Tools and Technologies
 
 
