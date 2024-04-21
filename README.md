@@ -2,13 +2,12 @@
 
 
 <table width="100%" >
-
  <tr>
   <td  width="50%">
-   
-   ## ⚡🙋‍♂️ About me
 
-   #### Introduce
+## ⚡🙋‍♂️ About me
+
+#### Introduce
 
  <p>
  Hi, My Name is M.Fathin Halim. I'm an indie middle school developer :D. I love making website, check my portofolio https://fathin.my.id
@@ -18,10 +17,6 @@
   <li>My Portofolio has several project that i make :D </li>
   <li>I Love Watching Anime and my fav genre is SOL :D</li>
 </ul>
-</br>
-<p>
- 
-</p>
 </td>
     <td width="50%">
      
@@ -50,6 +45,7 @@
 
 
 </td>
+</tr>
 
 </table>
 
