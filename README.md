@@ -3,7 +3,9 @@
 ## ⚡🙋‍♂️ About me
 
 <table width="100%" >
-<tr>
+
+ <tr>
+  <td  width="50%">
  <p>
  Hi, My Name is M.Fathin Halim. I'm an indie middle school developer :D. I love making website, check my portofolio https://fathin.my.id
 </p>
@@ -16,8 +18,7 @@
 <p>
  
 </p>
-</tr>
- <tr>
+</td>
     <td width="50%">
      
 ## 🛠️ Skills
