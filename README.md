@@ -4,7 +4,7 @@
 <h3 align="center">A middle school developer from Indonesia :D</h3>
 <p align="left"> <a href="https://twitter.com/mfathinhalim" target="blank"><img src="https://img.shields.io/twitter/follow/mfathinhalim?logo=twitter&style=for-the-badge" alt="mfathinhalim" /></a> </p>
 
-- 🔭 I’m currently working on [rejangpedia](https://rejangpedia.glitch.me)
+- 🔭 I’m currently working on [StoryBook](https://github.com/MFathinHalim/StoryBook)
 
 - 🌱 I’m currently learning **NextJS**
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **halimfathin7@gmail.com**
 
-- ⚡ Fun fact **I love watching Slice Of Life Anime**
+- ⚡ Fun fact **I love read novel, my favorite one is Funiculi Funicula**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
