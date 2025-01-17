@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://www.fathin.my.id](https://www.fathin.my.id)
+- 👨‍💻 All of my projects are available at my [portofolio](https://mfathinhalim.github.io/)
 
 - 📫 How to reach me **halimfathin7@gmail.com**
 
