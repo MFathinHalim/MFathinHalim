@@ -4,7 +4,7 @@
 <h3 align="center">A middle school developer from Indonesia :D</h3>
 <p align="left"> <a href="https://twitter.com/mfathinhalim" target="blank"><img src="https://img.shields.io/twitter/follow/mfathinhalim?logo=twitter&style=for-the-badge" alt="mfathinhalim" /></a> </p>
 
-- 🔭 I’m currently working on [StoryBook](https://github.com/MFathinHalim/StoryBook)
+- 🔭 I’m currently working on [StoryBook](https://github.com/MFathinHalim/rejangpedia)
 
 - 🌱 I’m currently learning **NextJS**
 
