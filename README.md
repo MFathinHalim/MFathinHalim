@@ -1,6 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm M.Fathin Halim</h1>
+<p align="center">
+  <img src="https://media1.tenor.com/m/wilYo_7wGKYAAAAd/new-game-ahagon-umiko-programming.gif" alt="biar imut niru dari dannofficial" />
+</p>
 <h3 align="center">A middle school developer from Indonesia :D</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MFathinHalim&show_icons=true&theme=tokyonight&count_private=true" width="50%"/>
@@ -16,12 +19,6 @@
 - 📫 How to reach me **halimfathin7@gmail.com**
 
 - ⚡ Fun fact **I love read novel, my favorite one is Funiculi Funicula**
-
-  
-<p align="center">
-  <img src="https://media1.tenor.com/m/wilYo_7wGKYAAAAd/new-game-ahagon-umiko-programming.gif" alt="biar imut niru dari dannofficial" />
-</p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
