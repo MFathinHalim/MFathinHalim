@@ -1,9 +1,6 @@
 
 
 <h1 align="center">Hi 👋, I'm M.Fathin Halim</h1>
-<p align="center">
-  <img src="https://media1.tenor.com/m/wilYo_7wGKYAAAAd/new-game-ahagon-umiko-programming.gif" alt="biar imut niru dari dannofficial" />
-</p>
 <h3 align="center">A middle school developer from Indonesia :D</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MFathinHalim&show_icons=true&theme=tokyonight&count_private=true"/>
@@ -30,6 +27,10 @@
 <a href="https://www.youtube.com/c/mfathinhalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mfathinhalim" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mfathinhalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mfathinhalim" height="30" width="40" /></a>
 <a href="https://discord.com/users/1156486226094870569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/1156486226094870569" height="30" width="40" /></a>
+</p>
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/wilYo_7wGKYAAAAd/new-game-ahagon-umiko-programming.gif" alt="biar imut niru dari dannofficial" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
