@@ -29,10 +29,6 @@
 <a href="https://discord.com/users/1156486226094870569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/1156486226094870569" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/wilYo_7wGKYAAAAd/new-game-ahagon-umiko-programming.gif" alt="biar imut niru dari dannofficial" />
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 ### 💻 Programming Languages  
@@ -50,5 +46,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
 </p>
 
-
-
+### Thanks For Coming!
+<p align="center">
+  <img src="https://media1.tenor.com/m/wilYo_7wGKYAAAAd/new-game-ahagon-umiko-programming.gif" alt="biar imut niru dari dannofficial" />
+</p>
