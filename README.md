@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm M.Fathin Halim</h1>
 <h3 align="center">A middle school developer from Indonesia :D</h3>
 <p align="center">
-  <img src="https://media1.tenor.com/m/wilYo_7wGKYAAAAd/new-game-ahagon-umiko-programming.gif" width="300px" alt="biar imut niru dari dannofficial" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MFathinHalim&show_icons=true&theme=tokyonight&count_private=true" width="50%"/>
 </p>
 <p align="left"> <a href="https://twitter.com/mfathinhalim" target="blank"><img src="https://img.shields.io/twitter/follow/@mfathinhalim" alt="mfathinhalim" /></a> </p>
 
@@ -16,7 +16,10 @@
 - 📫 How to reach me **halimfathin7@gmail.com**
 
 - ⚡ Fun fact **I love read novel, my favorite one is Funiculi Funicula**
-
+  
+<p align="center">
+  <img src="https://media1.tenor.com/m/wilYo_7wGKYAAAAd/new-game-ahagon-umiko-programming.gif" width="300px" alt="biar imut niru dari dannofficial" />
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/mfathinhalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mfathinhalim" height="30" width="40" /></a>
