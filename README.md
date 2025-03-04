@@ -6,7 +6,7 @@
 </p>
 <h3 align="center">A middle school developer from Indonesia :D</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MFathinHalim&show_icons=true&theme=tokyonight&count_private=true" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MFathinHalim&show_icons=true&theme=tokyonight&count_private=true"/>
 </p>
 <p align="left"> <a href="https://twitter.com/mfathinhalim" target="blank"><img src="https://img.shields.io/twitter/follow/@mfathinhalim" alt="mfathinhalim" /></a> </p>
 
