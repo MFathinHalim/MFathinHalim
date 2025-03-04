@@ -46,7 +46,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
 </p>
 
-### Thanks For Coming!
+<h2 align="center">Thanks For Coming!</h2>
 <p align="center">
   <img src="https://media1.tenor.com/m/wilYo_7wGKYAAAAd/new-game-ahagon-umiko-programming.gif" alt="biar imut niru dari dannofficial" />
 </p>
