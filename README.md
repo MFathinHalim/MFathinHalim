@@ -29,17 +29,17 @@
 <h3 align="left">Languages and Tools:</h3>
 ### 💻 Programming Languages  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,php,rust,go,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c#,html,css" />
 </p>
 
 ### 🧩 Frameworks & Libraries  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,next,vue,angular,svelte,flutter,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap" />
 </p>
 
 ### 🔧 Tools & Platforms  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,vscode,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
 </p>
 
 
