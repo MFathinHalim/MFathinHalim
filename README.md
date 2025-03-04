@@ -3,8 +3,9 @@
 <h1 align="center">Hi 👋, I'm M.Fathin Halim</h1>
 <h3 align="center">A middle school developer from Indonesia :D</h3>
 <p align="left"> <a href="https://twitter.com/mfathinhalim" target="blank"><img src="https://img.shields.io/twitter/follow/@mfathinhalim" alt="mfathinhalim" /></a> </p>
-<img src="https://media1.tenor.com/m/wilYo_7wGKYAAAAd/new-game-ahagon-umiko-programming.gif" alt="biar imut"/>
-
+<p align="center">
+  <img src="https://media1.tenor.com/m/wilYo_7wGKYAAAAd/new-game-ahagon-umiko-programming.gif" width="300px" alt="biar imut niru dari dannofficial">
+</p>
 - 🔭 I’m currently working on [rejangpedia (NextJS)](https://github.com/MFathinHalim/rejangpedia)
 
 - 🌱 I’m currently learning **NextJS**
