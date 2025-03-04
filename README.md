@@ -27,6 +27,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 ### 💻 Programming Languages  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,c#,html,css" />
