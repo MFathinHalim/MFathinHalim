@@ -7,15 +7,15 @@
 </p>
 <p align="left"> <a href="https://twitter.com/mfathinhalim" target="blank"><img src="https://img.shields.io/twitter/follow/@mfathinhalim" alt="mfathinhalim" /></a> </p>
 
-- 🔭 I’m currently working on [rejangpedia (NextJS)](https://github.com/MFathinHalim/rejangpedia)
+- 🔭 I’m currently working on Kamus Bahasa Rejang (NextJS)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **more things about Programming**
 
 - 👨‍💻 All of my projects are available at my [portofolio](https://mfathinhalim.github.io/)
 
 - 📫 How to reach me **halimfathin7@gmail.com**
 
-- ⚡ Fun fact **I love read novel, my favorite one is Funiculi Funicula**
+- ⚡ Fun fact **I love read novel, my favorite one is Funiculi Funicula series**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
