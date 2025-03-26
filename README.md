@@ -19,15 +19,32 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/mfathinhalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mfathinhalim" height="30" width="40" /></a>
-<a href="https://twitter.com/mfathinhalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mfathinhalim" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/m-fathin-halim-8b819828" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-fathin-halim-8b819828" height="30" width="40" /></a>
-<a href="https://fb.com/m.fathin halim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.fathin halim" height="30" width="40" /></a>
-<a href="https://instagram.com/mfathin_halim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mfathin_halim" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mfathinhalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mfathinhalim" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mfathinhalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mfathinhalim" height="30" width="40" /></a>
-<a href="https://discord.com/users/1156486226094870569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/1156486226094870569" height="30" width="40" /></a>
+  <a href="https://codepen.io/mfathinhalim" target="_blank">
+    <img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/mfathinhalim" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/m-fathin-halim-8b819828" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/m.fathin halim" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/mfathin_halim" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/mfathinhalim" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/mfathinhalim" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://discord.com/users/1156486226094870569" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="30" width="40" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
