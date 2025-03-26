@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://fb.com/m.fathin halim" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100085410154411" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/c/mfathinhalim" target="_blank">
