@@ -19,6 +19,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://fb.com/m.fathin halim" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/mfathinhalim" target="_blank">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/mfathinhalim" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" height="30" width="40" />
+  </a>
   <a href="https://codepen.io/mfathinhalim" target="_blank">
     <img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" height="30" width="40" />
   </a>
@@ -28,22 +37,14 @@
   <a href="https://linkedin.com/in/m-fathin-halim-8b819828" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://fb.com/m.fathin halim" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="30" width="40" />
-  </a>
   <a href="https://instagram.com/mfathin_halim" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/mfathinhalim" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/mfathinhalim" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="30" width="40" />
   </a>
   <a href="https://discord.com/users/1156486226094870569" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="30" width="40" />
   </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
