@@ -7,7 +7,7 @@
 </p>
 <p align="left"> <a href="https://twitter.com/mfathinhalim" target="blank"><img src="https://img.shields.io/twitter/follow/@mfathinhalim" alt="mfathinhalim" /></a> </p>
 
-- 🔭 I’m currently working on [Kamus Bahasa Rejang (NextJS)](https://github.com/MFathinHalim/Kamus-Bahasa-Rejang)
+- 🔭 I’m currently working on ... for now is nothing hehe
 
 - 🌱 I’m currently learning **more things about Programming**
 
