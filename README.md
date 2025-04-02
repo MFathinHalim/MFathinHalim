@@ -37,7 +37,7 @@ Create [Kamus Bahasa Rejang](https://kamusrejang.vercel.app/), A digital diction
 
 - ⚡ Fun fact **I love read novel, my favorite one is Funiculi Funicula series**
 
-<h3 align="left">Connect with me:</h3>
+Connect with me:
 <p align="left">
   <a href="https://www.facebook.com/profile.php?id=100085410154411" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" height="30" width="40" />
