@@ -7,7 +7,7 @@ Create [Kamus Bahasa Rejang](https://kamusrejang.vercel.app/), A digital diction
   <img src="https://ik.imagekit.io/9hpbqscxd/SG/image-73.jpg?updatedAt=1705798245623"/>
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c#,html,css,react,next,tailwind,bootstrap,git,github,vscode,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,html,css,react,next,tailwind,bootstrap,git,github,vscode,figma,linux" alt="Skill Icons" />
 </p>
 <p align="left"> <a href="https://twitter.com/mfathinhalim" target="blank"><img src="https://img.shields.io/twitter/follow/@mfathinhalim" alt="mfathinhalim" /></a> </p>
 
