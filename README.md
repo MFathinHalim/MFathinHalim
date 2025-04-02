@@ -68,5 +68,5 @@ Create [Kamus Bahasa Rejang](https://kamusrejang.vercel.app/), A digital diction
 <h2 align="center">Thanks For Coming!</h2>
 <p>
   <img src="https://media1.tenor.com/m/wilYo_7wGKYAAAAd/new-game-ahagon-umiko-programming.gif" alt="biar imut niru dari dannofficial" />
-  <img src="https://media1.tenor.com/m/VuNe7PwAQqwAAAAd/mahiru-shiina.gif" alt="biar imut niru dari dannofficial" />
+  <img src="https://media.tenor.com/44uxxpe57twAAAAM/obsolete-meat-vocaloid.gif" alt="biar imut niru dari dannofficial" />
 </p>
