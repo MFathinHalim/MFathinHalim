@@ -1,7 +1,6 @@
-![image](https://github.com/user-attachments/assets/358cdd5b-584e-4e8e-83c2-f96fa6898191)
-
-<h1 align="center">Hi 👋, I'm M.Fathin Halim</h1>
-<h3 align="center">A middle school developer from Indonesia :D</h3>
+<h1>Hi 👋, I'm M.Fathin Halim</h1>
+<h3>An indie developer from Indonesia :D</h3>
+<h3>Made [Kamus Bahasa Rejang](https://kamusrejang.vercel.app/), A digital dictionary application that helps users understand and learn the Rejang language, one of the regional languages in Indonesia.</h3>
 <p align="center">
   <img src="https://ik.imagekit.io/9hpbqscxd/SG/image-73.jpg?updatedAt=1705798245623"/>
 </p>
