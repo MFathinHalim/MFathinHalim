@@ -6,6 +6,9 @@ Create [Kamus Bahasa Rejang](https://kamusrejang.vercel.app/), A digital diction
 <p align="center">
   <img src="https://ik.imagekit.io/9hpbqscxd/SG/image-73.jpg?updatedAt=1705798245623"/>
 </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c#,html,css,react,next,tailwind,bootstrap,git,github,vscode,figma,linux" />
+</p>
 <p align="left"> <a href="https://twitter.com/mfathinhalim" target="blank"><img src="https://img.shields.io/twitter/follow/@mfathinhalim" alt="mfathinhalim" /></a> </p>
 
 - 🔭 I’m currently working on ... for now is nothing hehe
@@ -44,25 +47,6 @@ Create [Kamus Bahasa Rejang](https://kamusrejang.vercel.app/), A digital diction
   <a href="https://discord.com/users/1156486226094870569" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="30" width="40" />
   </a>
-</p>
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-### 💻 Programming Languages  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c#,html,css" />
-</p>
-
-### 🧩 Frameworks & Libraries  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap" />
-</p>
-
-### 🔧 Tools & Platforms  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
 </p>
 
 <h2 align="center">Thanks For Coming!</h2>
