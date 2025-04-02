@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm M.Fathin Halim</h1>
-<h3>An indie developer from Indonesia :D</h3>
-<h3>Made [Kamus Bahasa Rejang](https://kamusrejang.vercel.app/), A digital dictionary application that helps users understand and learn the Rejang language, one of the regional languages in Indonesia.</h3>
+<p>An indie developer from Indonesia :D</p>
+<p>Made [Kamus Bahasa Rejang](https://kamusrejang.vercel.app/), A digital dictionary application that helps users understand and learn the Rejang language, one of the regional languages in Indonesia.</p>
 <p align="center">
   <img src="https://ik.imagekit.io/9hpbqscxd/SG/image-73.jpg?updatedAt=1705798245623"/>
 </p>
@@ -64,6 +64,7 @@
 </p>
 
 <h2 align="center">Thanks For Coming!</h2>
-<p align="center">
+<p>
   <img src="https://media1.tenor.com/m/wilYo_7wGKYAAAAd/new-game-ahagon-umiko-programming.gif" alt="biar imut niru dari dannofficial" />
+  <img src="https://media.tenor.com/wXNi_3vwDeAAAAAM/mahiru-shiina.gif" alt="biar imut niru dari dannofficial" />
 </p>
