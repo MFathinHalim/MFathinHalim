@@ -1,9 +1,9 @@
-
+![image](https://github.com/user-attachments/assets/358cdd5b-584e-4e8e-83c2-f96fa6898191)
 
 <h1 align="center">Hi 👋, I'm M.Fathin Halim</h1>
 <h3 align="center">A middle school developer from Indonesia :D</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MFathinHalim&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img src="https://ik.imagekit.io/9hpbqscxd/SG/image-73.jpg?updatedAt=1705798245623"/>
 </p>
 <p align="left"> <a href="https://twitter.com/mfathinhalim" target="blank"><img src="https://img.shields.io/twitter/follow/@mfathinhalim" alt="mfathinhalim" /></a> </p>
 
