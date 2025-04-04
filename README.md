@@ -25,8 +25,6 @@ Create [Kamus Bahasa Rejang](https://kamusrejang.vercel.app/), A digital diction
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-<p align="left"> <a href="https://twitter.com/mfathinhalim" target="blank"><img src="https://img.shields.io/twitter/follow/@mfathinhalim" alt="mfathinhalim" /></a> </p>
-
 - 🔭 I’m currently working on ... for now is nothing hehe
 
 - 🌱 I’m currently learning **more things about Programming**
