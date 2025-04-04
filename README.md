@@ -24,31 +24,6 @@ Create [Kamus Bahasa Rejang](https://kamusrejang.vercel.app/), A digital diction
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-
-## Little things about me
-
-- I’m currently working on ... for now is nothing hehe
-
-- I’m currently learning **more things about Programming**
-
-- All of my projects are available at my [portofolio](https://mfathinhalim.github.io/)
-
-- How to reach me **halimfathin7@gmail.com**
-
-- Fun fact **I love read novel, my favorite one is Funiculi Funicula series**
-
-## Some project i made
-1. [Kamus Bahasa Rejang](https://github.com/MFathinHalim/Kamus-Bahasa-Rejang), Rejang Langguage dictionary to help people learn and understanding the Rejang Langguage
-2. [rejangpedia](https://github.com/MFathinHalim/rejangpedia), The online enksiklopedia that everyone can contribute to it and share it to other people
-3. [Story Book](https://github.com/MFathinHalim/StoryBook), Online digital book to help student save their notes and access them anytime anywhere
-
-## Random things i made
-1. [Haruka Doesn't Like Carrot ](https://github.com/MFathinHalim/Haruka-Not-Like-Carrot), a random game i made for learning Pyxel
-2. [Yunation Fanpage](https://github.com/MFathinHalim/Yunation), i made this website because i like yunayu content + i want to learning how to design a cute website
-3. [Project 32](https://github.com/MFathinHalim/Project-32), the 32 is a random number lmao, this extension is for parent that worried their kids access some website they shouldn't (Still unfinish hehe)
-
-------------------------------
-
 Connect with me:
 <p align="left">
   <a href="https://www.facebook.com/profile.php?id=100085410154411" target="_blank">
@@ -76,6 +51,30 @@ Connect with me:
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="30" width="40" />
   </a>
 </p>
+
+## Little things about me
+
+- I’m currently working on ... for now is nothing hehe
+
+- I’m currently learning **more things about Programming**
+
+- All of my projects are available at my [portofolio](https://mfathinhalim.github.io/)
+
+- How to reach me **halimfathin7@gmail.com**
+
+- Fun fact **I love read novel, my favorite one is Funiculi Funicula series**
+
+## Some project i made
+1. [Kamus Bahasa Rejang](https://github.com/MFathinHalim/Kamus-Bahasa-Rejang), Rejang Langguage dictionary to help people learn and understanding the Rejang Langguage
+2. [rejangpedia](https://github.com/MFathinHalim/rejangpedia), The online enksiklopedia that everyone can contribute to it and share it to other people
+3. [Story Book](https://github.com/MFathinHalim/StoryBook), Online digital book to help student save their notes and access them anytime anywhere
+
+## Random things i made
+1. [Haruka Doesn't Like Carrot ](https://github.com/MFathinHalim/Haruka-Not-Like-Carrot), a random game i made for learning Pyxel
+2. [Yunation Fanpage](https://github.com/MFathinHalim/Yunation), i made this website because i like yunayu content + i want to learning how to design a cute website
+3. [Project 32](https://github.com/MFathinHalim/Project-32), the 32 is a random number lmao, this extension is for parent that worried their kids access some website they shouldn't (Still unfinish hehe)
+
+------------------------------
 
 <h2 align="center">Thanks For Coming!</h2>
 <p>
