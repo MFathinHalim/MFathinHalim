@@ -37,6 +37,18 @@ Create [Kamus Bahasa Rejang](https://kamusrejang.vercel.app/), A digital diction
 
 - ⚡ Fun fact **I love read novel, my favorite one is Funiculi Funicula series**
 
+# Some project i made
+1. [Kamus Bahasa Rejang](https://github.com/MFathinHalim/Kamus-Bahasa-Rejang), Rejang Langguage dictionary to help people learn and understanding the Rejang Langguage
+2. [rejangpedia](https://github.com/MFathinHalim/rejangpedia), The online enksiklopedia that everyone can contribute to it and share it to other people
+3. [Story Book](https://github.com/MFathinHalim/StoryBook), Online digital book to help student save their notes and access them anytime anywhere
+
+# Random things i made
+1. [Haruka Doesn't Like Carrot ](https://github.com/MFathinHalim/Haruka-Not-Like-Carrot), a random game i made for learning Pyxel
+2. [Yunation Fanpage](https://github.com/MFathinHalim/Yunation), i made this website because i like yunayu content + i want to learning how to design a cute website
+3. [Project 32](https://github.com/MFathinHalim/Project-32), the 32 is a random number lmao, this extension is for parent that worried their kids access some website they shouldn't (Still unfinish hehe)
+
+------------------------------
+
 Connect with me:
 <p align="left">
   <a href="https://www.facebook.com/profile.php?id=100085410154411" target="_blank">
