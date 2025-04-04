@@ -4,7 +4,7 @@ An indie developer from Indonesia :D
 Create [Kamus Bahasa Rejang](https://kamusrejang.vercel.app/), A digital dictionary application that helps users understand and learn the Rejang language, one of the regional languages in Indonesia.
 
 <p align="center">
-  <img src="https://ik.imagekit.io/9hpbqscxd/SG/image-101.jpg?updatedAt=1705798245623"/>
+  <img src="https://ik.imagekit.io/9hpbqscxd/SG/image-102.jpg?updatedAt=1705798245623"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
