@@ -1,4 +1,4 @@
-## Hi 👋, I'm M.Fathin Halim
+## I'm M.Fathin Halim
 An indie developer from Indonesia :D
 
 Create [Kamus Bahasa Rejang](https://kamusrejang.vercel.app/), A digital dictionary application that helps users understand and learn the Rejang language, one of the regional languages in Indonesia.
@@ -27,15 +27,15 @@ Create [Kamus Bahasa Rejang](https://kamusrejang.vercel.app/), A digital diction
 
 ---------------------------------
 
-- 🔭 I’m currently working on ... for now is nothing hehe
+- I’m currently working on ... for now is nothing hehe
 
-- 🌱 I’m currently learning **more things about Programming**
+- I’m currently learning **more things about Programming**
 
-- 👨‍💻 All of my projects are available at my [portofolio](https://mfathinhalim.github.io/)
+- All of my projects are available at my [portofolio](https://mfathinhalim.github.io/)
 
-- 📫 How to reach me **halimfathin7@gmail.com**
+- How to reach me **halimfathin7@gmail.com**
 
-- ⚡ Fun fact **I love read novel, my favorite one is Funiculi Funicula series**
+- Fun fact **I love read novel, my favorite one is Funiculi Funicula series**
 
 ## Some project i made
 1. [Kamus Bahasa Rejang](https://github.com/MFathinHalim/Kamus-Bahasa-Rejang), Rejang Langguage dictionary to help people learn and understanding the Rejang Langguage
