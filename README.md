@@ -24,7 +24,9 @@ Create [Kamus Bahasa Rejang](https://kamusrejang.vercel.app/), A digital diction
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
+
 Connect with me:
+
 <p align="left">
   <a href="https://www.facebook.com/profile.php?id=100085410154411" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" height="30" width="40" />
