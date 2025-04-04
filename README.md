@@ -29,28 +29,28 @@ Connect with me:
 
 <p align="left">
   <a href="https://www.facebook.com/profile.php?id=100085410154411" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="40" width="40" />
   </a>
   <a href="https://www.youtube.com/c/mfathinhalim" target="_blank">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" height="40" width="40" />
   </a>
   <a href="https://www.leetcode.com/mfathinhalim" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="40" width="40" />
   </a>
   <a href="https://codepen.io/mfathinhalim" target="_blank">
-    <img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" height="40" width="40" />
   </a>
   <a href="https://twitter.com/mfathinhalim" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" width="40" />
   </a>
   <a href="https://linkedin.com/in/m-fathin-halim-8b819828" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
   </a>
   <a href="https://instagram.com/mfathin_halim" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" width="40" />
   </a>
   <a href="https://discord.com/users/1156486226094870569" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="40" width="40" />
   </a>
 </p>
 
