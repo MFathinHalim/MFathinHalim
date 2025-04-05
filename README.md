@@ -75,8 +75,6 @@ Connect with me:
 2. [Yunation Fanpage](https://github.com/MFathinHalim/Yunation), i made this website because i like yunayu content + i want to learning how to design a cute website
 3. [Project 32](https://github.com/MFathinHalim/Project-32), the 32 is a random number lmao, this extension is for parent that worried their kids access some website they shouldn't (Still unfinish hehe)
 
-------------------------------
-
 <h2 align="center">Thanks For Coming!</h2>
 <p>
   <img src="https://media1.tenor.com/m/wilYo_7wGKYAAAAd/new-game-ahagon-umiko-programming.gif" style="height: 200px; object-fit: cover; " alt="biar imut niru dari dannofficial" />
